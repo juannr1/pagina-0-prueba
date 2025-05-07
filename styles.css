@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: #000000;
+    font-size: 50px;
+}
+
+form {
+
+    text-align: center;
+    font-size: 25px;
+}
+
+
+#FormTrasaccion {
+
+
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 30px;
+
+
+}
+
+
+th {
+
+border: solid #000000;
+padding: 10px;
+text-align: center;
+
+
+}
+
+td {
+
+    border: solid #070707;
+    padding: 10px;
+    text-align: center;
+
+}
+
